@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/marsh-demo/static/css/main.a12da2d5.chunk.css",
-    "main.js": "/marsh-demo/static/js/main.e117e68a.chunk.js",
-    "main.js.map": "/marsh-demo/static/js/main.e117e68a.chunk.js.map",
-    "runtime~main.js": "/marsh-demo/static/js/runtime~main.a34f00c3.js",
-    "runtime~main.js.map": "/marsh-demo/static/js/runtime~main.a34f00c3.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/marsh-demo/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.68d43c96.chunk.js": "/marsh-demo/static/js/2.68d43c96.chunk.js",
-    "static/js/2.68d43c96.chunk.js.map": "/marsh-demo/static/js/2.68d43c96.chunk.js.map",
-    "index.html": "/marsh-demo/index.html",
-    "precache-manifest.6d30a28cd019c445af0e690efa180e2a.js": "/marsh-demo/precache-manifest.6d30a28cd019c445af0e690efa180e2a.js",
-    "service-worker.js": "/marsh-demo/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/marsh-demo/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.a12da2d5.chunk.css.map": "/marsh-demo/static/css/main.a12da2d5.chunk.css.map",
-    "static/media/logo.svg": "/marsh-demo/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/static/css/main.a12da2d5.chunk.css",
+    "main.js": "/static/js/main.52282aa4.chunk.js",
+    "main.js.map": "/static/js/main.52282aa4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.ccc6dfe0.js",
+    "runtime~main.js.map": "/static/js/runtime~main.ccc6dfe0.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.68d43c96.chunk.js": "/static/js/2.68d43c96.chunk.js",
+    "static/js/2.68d43c96.chunk.js.map": "/static/js/2.68d43c96.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fab94af00874e65628499099c66ac147.js": "/precache-manifest.fab94af00874e65628499099c66ac147.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.a12da2d5.chunk.css.map": "/static/css/main.a12da2d5.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
   }
 }
