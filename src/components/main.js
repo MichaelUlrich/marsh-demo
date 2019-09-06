@@ -1,17 +1,17 @@
 import React from 'react';
 import { Switch, Route} from 'react-router-dom';
 import LandingPage from './landingpage';
-import AboutMe from './about';
+import CommInfo from './comm-info';
 import Contact from './contact';
-import Projects from './projects';
+import Art from './art';
 import Resume from './resume';
 {/* React Router */}
 const Main = () => (
-  <switch>
+  <Switch>
     <Route exact path="/" component={LandingPage} />
-    <Route path="/aboutme" component={AboutMe} />
+    <Route path="/comm-info" component={CommInfo} />
     <Route path="/contact" component={Contact} />
-    <Route path="/projects" component={Projects} />
-  </switch>
+    <Route path="/art" component={Art} />
+  </Switch>
 )
 export default Main;

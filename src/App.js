@@ -8,12 +8,12 @@ function App() {
   return (
     <div className="demo-big-content">
     <Layout fixedHeader="true">
-      <Header className="header-color" scroll>
-        <Navigation style={{margin:"auto"}}>
+      <Header className="header-color" style={{margin:"auto"}} scroll>
+        <Navigation className="navbar-style" style={{margin:"auto"}}>
           <Link to="/"><strong>Home</strong></Link>
-          {/*}<Link to="/aboutme">About me</Link>*/}
-          <Link to="/projects"><strong>Art</strong></Link>
-        <Link to="/contact"><strong>Contact</strong></Link>
+          <Link to="/art"><strong>Art</strong></Link>
+          <Link to="/comm-info"><strong>Commision Info</strong></Link>
+          <Link to="/contact"><strong>Contact</strong></Link>
         </Navigation>
       </Header>
         <Content>
