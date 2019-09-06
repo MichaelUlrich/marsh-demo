@@ -46,12 +46,6 @@
   right: 90px;
   overflow: hidden;
 }
-/* Not working */
-/*@media only screen and (max-width: 900px) {
-    .landing-image {
-      visibility: hidden;
-    }
-}*/
 .about-body {
   width: 100%;
   margin: auto;
@@ -151,22 +145,10 @@
   padding-top: 25px;
   z-index: 0;
 }
-.card-flex {
-
-}
 .modal-box {
   border: 1px solid black;
   width: 50%;
 }
-/*@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}*/
-
 /* Flex for art cards in projects.js */
 .box {
   display: flex;
@@ -183,7 +165,6 @@
   padding: 40px;
   size: 100px;
 }
-
 /* Dialog/Modal CSS */
 .dialog {
   position: absolute;
@@ -234,6 +215,7 @@
   margin: 15px;
   text-align: center;
   display: flex;
+  //width: 150px;
 }
 .slide img {
   border: 1px solid #ddd;
